@@ -3,8 +3,8 @@ shortcuts in microsoft visual studio code :
 
 `Open / View in VS CODE`  !!!
 
-1). In terminal - cls      -> is used to clear sccreen.
-2) ctrl + shift + p       -> to open command pallete.
+1). In terminal - cls      -> is used to clear sccreen
+2) ctrl + shift + p       -> to open command pallete
 3) to Toggle the terminal -> ctrl + `  
 4) to create the new terminal -> shift + ctrl + `
 5) toggle sidebar         -> ctrl + B
