@@ -53,9 +53,3 @@ shortcuts in microsoft visual studio code :
 32) to add cursor  -> alt + click
 33) to go to entity ( functions, etc... )    -> ctrl + shift + o
 
-
-
-
-
-
-
