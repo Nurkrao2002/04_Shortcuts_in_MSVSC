@@ -34,13 +34,24 @@ shortcuts in microsoft visual studio code :
 
 21) cut           -> ctrl + X  
 22) copy          -> ctrl + c
-23) paste         ->cttrl + P
+23) paste         -> ctrl + P
+
 24) to move line up & down 
-        ->  alt + up arrow
-          -> alt + down arrow
+        ->  alt + up arrow 
+          -> alt + down arrow 
+          
 25) to copy lines up & down 
-         ->  
+         -> shift + alt + up
+            -> shift + alt + down
       
+26) to remove the line    -> shift + ctrl + K
+27) to jump matching bracket -> shift + ctrl + \
+28) to add line comment  -> ctrl + /
+29) to add block comment  -> shift + alt + A
+30) to higlight the code  -> shift +  any direction 
+31) to select next match  -> ctrl + D
+32) to add cursor  -> alt + click
+33) to go to entity ( functions, etc... )    -> ctrl + shift + o
 
 
 
